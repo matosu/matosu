@@ -17,3 +17,5 @@
   <img style="align: center" height="30" width="40" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img style="align: center" height="30" width="40" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
+
+![Snake animation](https://github.com/matosu/matosu/blob/output/github-contribution-grid-snake.svg)
