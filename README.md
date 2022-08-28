@@ -4,8 +4,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusenrique56/)
 
 <div>
-<img height="180em" width="460px" src="https://github-readme-stats.vercel.app/api?username=matosu&show_icons=true&theme=dracula">
-<img height="180em" width="460px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matosu&layout=compact">
+<img height="180em" width="430px" src="https://github-readme-stats.vercel.app/api?username=matosu&show_icons=true&theme=dracula">
+<img height="180em" width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matosu&layout=compact">
 </div
 
 ### Tecnologias que eu uso
