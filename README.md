@@ -2,7 +2,7 @@
 
 #
 
-- 🌱 estou no meu último ano do ensino médio, focando para ser um desenvolvedor web
+- 🌱 terminei o ensino médio, focando para ser um desenvolvedor web
 - 🗿 buscando melhorar minhas habilidades com responsividade e design
 
 #
